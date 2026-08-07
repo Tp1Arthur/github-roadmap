@@ -19,6 +19,9 @@
 
 ## 📚 Objetivo
 
+## Progresso
+
+
 ## proximos passos
 
 - aprender java
