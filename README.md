@@ -11,10 +11,10 @@
 
 ## Estrutura do repositório
 
-- Módulo 1 - Entendendo Git e GitHub
-- Módulo 2 - Primeiro Commit
-- Módulo 3 - Conectando ao GitHub
-- Módulo 4 - Markdown
+- Módulo 1 - Entendendo Git e GitHub [x]
+- Módulo 2 - Primeiro Commit [x]
+- Módulo 3 - Conectando ao GitHub [x]
+- Módulo 4 - Markdown [x]
 
 ## Autor
 
