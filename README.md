@@ -33,3 +33,4 @@
 
 **Link (LinkedIn):** [Link do LinkedIn](https://www.linkedin.com/in/arthur-ricardo-silva/)
 
+**Link (GitHub):** [Link do GitHub](https://github.com/Tp1Arthur/)
