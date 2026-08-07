@@ -15,6 +15,7 @@
 - Módulo 2 - Primeiro Commit [x]
 - Módulo 3 - Conectando ao GitHub [x]
 - Módulo 4 - Markdown [x]
+- Módulo 5 - Commits Profisssionais [ ]
 
 ## Autor
 
