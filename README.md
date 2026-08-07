@@ -19,7 +19,11 @@
 
 ## 📚 Objetivo
 
+## proximos passos
 
+- aprender java
+- aprender mais github
+- aprender SQL
 ## Autor
 
 **Nome:** Arthur Ricardo
