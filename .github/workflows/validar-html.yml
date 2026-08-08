@@ -1,0 +1,10 @@
+name: Validar HTML
+
+on: push
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar codigo do repositorio
+        uses: actions/checkout@v4
