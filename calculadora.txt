@@ -1,0 +1,5 @@
+Calculadora
+
+Função: soma(a, b)
+Retorna: a + b
+
