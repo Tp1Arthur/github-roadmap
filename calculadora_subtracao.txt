@@ -1,0 +1,5 @@
+Calculadora
+
+Função: subtracao(a, b)
+Retorna: a - b
+
