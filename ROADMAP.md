@@ -9,6 +9,8 @@ Cada módulo combina teoria curta + prática imediata. Ao final de cada um, algo
 **Pré-requisitos:** Git instalado, conta no GitHub, terminal Linux/Mac/WSL.
 **Duração sugerida:** 3 a 4 semanas, ~1 hora por dia.
 
+📜 Quer ver o plano de estudos original que guiou este repositório? Confira em [`docs/roadmap-original.md`](./docs/roadmap-original.md).
+
 ## Módulos
 
 | # | Módulo | O que você pratica | Status |
